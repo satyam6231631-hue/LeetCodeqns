@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [3884-first-matching-character-from-both-ends](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3884-first-matching-character-from-both-ends) |
+## String
+|  |
+| ------- |
+| [3884-first-matching-character-from-both-ends](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3884-first-matching-character-from-both-ends) |
 <!---LeetCode Topics End-->
