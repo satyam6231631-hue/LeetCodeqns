@@ -45,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1480-running-sum-of-1d-array) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
