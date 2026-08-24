@@ -37,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0125-valid-palindrome) |
 | [3884-first-matching-character-from-both-ends](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0125-valid-palindrome) |
 | [3884-first-matching-character-from-both-ends](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3884-first-matching-character-from-both-ends) |
 ## Prefix Sum
 |  |
