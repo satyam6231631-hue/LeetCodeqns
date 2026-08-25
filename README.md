@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0876-middle-of-the-linked-list) |
 | [3884-first-matching-character-from-both-ends](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0345-reverse-vowels-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3884-first-matching-character-from-both-ends) |
 ## Prefix Sum
 |  |
