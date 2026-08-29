@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -52,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/2396-strictly-palindromic-number) |
