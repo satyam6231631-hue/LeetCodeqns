@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0303-range-sum-query-immutable) |
+| [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/2396-strictly-palindromic-number) |
 | [3884-first-matching-character-from-both-ends](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
