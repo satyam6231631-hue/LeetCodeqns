@@ -4,15 +4,14 @@ class Solution:
         dic={}
         ans=0
         while(right<len(s)):
-            if s[right] not in dic:
-                
-                dic[s[right]]=right
-                right+=1
-            else:
+            if s[right] in dic:
                 left=max(left,dic[s[right]]+1)
-                dic[s[right]]=right
-                right+=1
-            ans=max(ans,right-left)
+            ans=max(ans,right-left+1)
+            dic[s[right]]=right
+            right+=1
+
+
+           
         return ans
 
                 
