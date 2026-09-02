@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1480-running-sum-of-1d-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
 | [2396-strictly-palindromic-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/2396-strictly-palindromic-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
