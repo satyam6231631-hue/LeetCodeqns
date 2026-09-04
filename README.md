@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -141,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
