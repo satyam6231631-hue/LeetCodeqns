@@ -91,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0938-range-sum-of-bst) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0938-range-sum-of-bst) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0098-validate-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0938-range-sum-of-bst) |
 ## Greedy
 |  |
