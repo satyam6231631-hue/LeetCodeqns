@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0303-range-sum-query-immutable) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
@@ -166,4 +168,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
