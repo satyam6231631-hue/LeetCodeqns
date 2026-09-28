@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
+| [0518-coin-change-ii](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0518-coin-change-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1480-running-sum-of-1d-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0198-house-robber) |
+| [0518-coin-change-ii](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0518-coin-change-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3498-reverse-degree-of-a-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
