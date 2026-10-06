@@ -12,7 +12,8 @@ class Solution:
                 node=q.popleft()
                 for col in range(n):
                     if isConnected[node][col]==1 and not vst[col]:
-                        bfs(col)
+                        vst[col]=True
+                        q.append(col)
 
 
 
