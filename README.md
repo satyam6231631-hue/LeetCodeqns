@@ -120,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0547-number-of-provinces) |
 | [0938-range-sum-of-bst](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0037-sudoku-solver) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
