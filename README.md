@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0877-stone-game) |
+| [2235-add-two-integers](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3870-count-commas-in-range) |
