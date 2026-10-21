@@ -14,9 +14,9 @@ class Solution:
                 return dp[i]
             one,two=0,0
             if 1<=int(s[i:i+1])<=9:
-                one+=f(i+1)
+                one=f(i+1)
             if 10<=int(s[i:i+2])<=26:
-                two+=f(i+2)
+                two=f(i+2)
             dp[i]=one+two
             return dp[i]
         return f(0)
