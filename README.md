@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0474-ones-and-zeroes](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0518-coin-change-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0877-stone-game) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -224,11 +227,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0518-coin-change-ii) |
 ## Binary Lifting
 |  |
