@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1480-running-sum-of-1d-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3875-construct-uniform-parity-array-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0011-container-with-most-water) |
+| [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
 ## Sliding Window
 |  |
 | ------- |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0474-ones-and-zeroes) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
