@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1029-two-city-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1029-two-city-scheduling) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0011-container-with-most-water) |
+| [1029-two-city-scheduling](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1029-two-city-scheduling) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
 ## Sliding Window
 |  |
@@ -286,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
