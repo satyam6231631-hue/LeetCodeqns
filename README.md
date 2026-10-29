@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1029-two-city-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3875-construct-uniform-parity-array-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1029-two-city-scheduling) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2396-strictly-palindromic-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/2396-strictly-palindromic-number) |
 | [3884-first-matching-character-from-both-ends](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0011-container-with-most-water) |
 | [1029-two-city-scheduling](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1029-two-city-scheduling) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sliding Window
 |  |
 | ------- |
