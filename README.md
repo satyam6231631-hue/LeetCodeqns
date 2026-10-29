@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1029-two-city-scheduling) |
+| [1338-reduce-array-size-to-the-half](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1338-reduce-array-size-to-the-half) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1480-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0451-sort-characters-by-frequency) |
+| [1338-reduce-array-size-to-the-half](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1338-reduce-array-size-to-the-half) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1029-two-city-scheduling) |
+| [1338-reduce-array-size-to-the-half](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1338-reduce-array-size-to-the-half) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0011-container-with-most-water) |
 | [1029-two-city-scheduling](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1029-two-city-scheduling) |
+| [1338-reduce-array-size-to-the-half](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1338-reduce-array-size-to-the-half) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sliding Window
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0451-sort-characters-by-frequency) |
+| [1338-reduce-array-size-to-the-half](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1338-reduce-array-size-to-the-half) |
 ## Quickselect
 |  |
 | ------- |
