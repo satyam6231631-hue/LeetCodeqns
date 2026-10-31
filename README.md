@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0349-intersection-of-two-arrays) |
 | [0474-ones-and-zeroes](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1029-two-city-scheduling) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
