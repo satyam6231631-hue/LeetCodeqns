@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0938-range-sum-of-bst) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0547-number-of-provinces) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0938-range-sum-of-bst) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
 | ------- |
