@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/1137-n-th-tribonacci-number) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/2320-count-number-of-ways-to-place-houses) |
 ## Hash Table
 |  |
 | ------- |
