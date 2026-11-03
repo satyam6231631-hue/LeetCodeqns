@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0836-rectangle-overlap) |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0451-sort-characters-by-frequency) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
