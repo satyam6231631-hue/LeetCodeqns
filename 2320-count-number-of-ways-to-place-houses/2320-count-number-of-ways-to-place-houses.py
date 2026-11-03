@@ -3,9 +3,9 @@ class Solution:
         md=10**9 +7
         dp=[-1]*(n+1)
         def f(i):
-            if i==1:
-                return 2
-            if i==0:
+            # if i==1:
+            #     return 2
+            if i<=0:
                 return 1
             if dp[i]!=-1:
                 return dp[i]
