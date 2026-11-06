@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0078-subsets) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0064-minimum-path-sum) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/satyam6231631-hue/LeetCodeqns/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
